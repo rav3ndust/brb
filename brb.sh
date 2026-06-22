@@ -4,7 +4,7 @@
 brb () {
 	local streamer="rav3ndust"
 	local x="BRB!"
-	local y="$streamer is taking a quick break."
+	local y="${streamer} is taking a quick break."
 	echo "$x" | figlet -ck -f standard 
 	echo "$y" | figlet -c -f term 
 	echo
