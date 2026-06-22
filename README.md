@@ -5,6 +5,8 @@
 
 Simply open up a terminal, run `brb`, and get a nice, `lolcat`-animated Tux telling you that we will be right back after a short break.
 
+> Make sure to run the included `install_deps.sh` script to make sure you have the needed packages for `brb`!
+
 ### see it in action in our streams
 
 This script sees frequent use on my [Twitch channel](https://twitch.tv/rav3ndust) when going on quick breaks.
